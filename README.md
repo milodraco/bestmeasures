@@ -1,5 +1,7 @@
 Room Acoustic Analyzer | Best Measures for Acoustic
+
 An acoustic analyzer and a best measures finder
+
 Written by Victor M. Leao ("milodraco")
 
 There's a bunch of acoustic analyzers out there, but I wanted to write a code that works a little different. It analyzes and calculates some parameters and
